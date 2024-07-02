@@ -1,0 +1,82 @@
+.all{
+    position: relative;
+    border: 1px solid blue;
+    height: 500px;
+    width: 600px;
+    left: 200px;
+}
+.s1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+
+}
+.s2{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+}
+.s3{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height: 100px;
+    width: 100px;
+    border: 1px  solid red;
+}
+.s4{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+}
+.c1{
+    position: absolute;
+    top: 0px;
+    left: 240px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid green;
+}
+.c2{
+    position: absolute;
+    bottom: 0px;
+    left:240px ;
+    height: 100px;
+    width: 100px;
+    border-radius:50% ;
+    border: 1px solid green;
+}
+.c3{
+    position: absolute;
+    top: 180px;
+    right: 0px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid green;
+}
+.c4{
+    position: absolute;
+    top: 180px;
+    left: 0px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid green;
+}
+.day{
+    text-align: center;
+    position: absolute;
+    top: 230px;
+    left:250px ;
+}
